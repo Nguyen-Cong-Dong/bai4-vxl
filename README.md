@@ -22,9 +22,11 @@ Thực hiện chuyển đổi từ code C sang Assembly cho 2 bài toán:
 
 Lưu đồ cho bài toán chuyển chữ thường:
 
-![chuthanhchuthuong]("D:\2025.2\vxl\homewwork2025.2\IMG_7807.HEIC")
+![chuthanhchuthuong](![IMG_7807](https://github.com/user-attachments/assets/5f747b15-db15-4549-99a4-a4004a23fe25)
+)
 Lưu đồ cho bài toán chuyển chuỗi sang số:
-![chuoisangso]("D:\2025.2\vxl\homewwork2025.2\IMG_7809.HEIC")
+![chuoisangso](![IMG_7809](https://github.com/user-attachments/assets/5c78945a-bacf-4e70-b483-546937954611)
+)
 
 
 
