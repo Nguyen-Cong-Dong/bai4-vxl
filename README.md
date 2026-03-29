@@ -30,6 +30,7 @@ Lưu đồ cho bài toán chuyển chuỗi sang số:
 ### 2. kết quả thực hiện
 #### Code C:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6b1f9ee6-8ede-4778-92be-cd8741f72c62" />
+
 #### Code assembly:
 <img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/1f0baf3e-7744-40f5-bdf9-cc0b17137ecb" />
 
