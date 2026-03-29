@@ -21,12 +21,12 @@ Thực hiện chuyển đổi từ code C sang Assembly cho 2 bài toán:
 ### 1. Lưu đồ thuật toán
 
 Lưu đồ cho bài toán chuyển chữ thường:
+![IMG_7807](https://github.com/user-attachments/assets/35a6e824-ab3f-45d1-b07f-8ac80b0d50aa)
 
-![chuthanhchuthuong](![IMG_7807](https://github.com/user-attachments/assets/5f747b15-db15-4549-99a4-a4004a23fe25)
-)
+
 Lưu đồ cho bài toán chuyển chuỗi sang số:
-![chuoisangso](![IMG_7809](https://github.com/user-attachments/assets/5c78945a-bacf-4e70-b483-546937954611)
-)
+
+![IMG_7809](https://github.com/user-attachments/assets/68d201ba-1cf7-4249-953f-3aa90467fc5d)
 
 
 
